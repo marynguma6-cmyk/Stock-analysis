@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/maryn/Downloads/stock_market_project/mlruns/484156954095368700/3aaa761877c64ca396660a21ab2fcf70/artifacts
+end_time: 1764431558892
+entry_point_name: ''
+experiment_id: '484156954095368700'
+lifecycle_stage: active
+run_id: 3aaa761877c64ca396660a21ab2fcf70
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764431558775
+status: 4
+tags: []
+user_id: maryn
